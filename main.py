@@ -56,10 +56,10 @@ async def start(client, message):
         await message.reply_video(video, caption=f"""ʜᴇʟʟᴏ[{message.from_user.first_name}](tg://user?id={message.from_user.id}),
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴏᴡɴᴇʀ   [ᴄʜᴀᴍᴘᴜ](https://t.me/ChampuXD)
-┣★ ᴜᴘᴅᴀᴛᴇs [ᴄʜᴀɴɴᴇʟ](https://t.me/theshivanshu)
-┣★ sᴜᴘᴘᴏʀᴛ [ɢʀᴏᴜᴘ ](https://t.me/Champu_Links)
-┣★ sᴏᴜʀᴄᴇ  [ʀᴇᴘᴏ ](https://github.com/TheChampu/TheChampu)
+┣★ ᴏᴡɴᴇʀ   [ᴄʜᴀᴍᴘᴜ](https://t.me/LUCIFER_IS_BOT)
+┣★ ᴜᴘᴅᴀᴛᴇs [ᴄʜᴀɴɴᴇʟ](https://t.me/lucifer_bots_support)
+┣★ sᴜᴘᴘᴏʀᴛ [ɢʀᴏᴜᴘ ](https://t.me/bot_testing_op)
+┣★ sᴏᴜʀᴄᴇ  [ʀᴇᴘᴏ ](https://telegra.ph/file/a315bbacca966986a1854.jpg)
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
 
